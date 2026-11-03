@@ -49,6 +49,16 @@ Proactive Full-Stack Web Developer and Software Engineer specializing in **Java*
 * Implemented and developed a public administration web application for local government usage.
     - https://www.soltel.es/agapa-sistema-integrado-inspeccion-control/
 
+{{< keywordList >}}
+  {{< keyword icon="code" >}} Java {{< /keyword >}}
+  {{< keyword icon="code" >}} SpringBoot {{< /keyword >}}
+  {{< keyword icon="code" >}} Angular / Css {{< /keyword >}}
+  {{< keyword icon="code" >}} Css {{< /keyword >}}
+  {{< keyword icon="code" >}} TypeScript / SQL {{< /keyword >}}
+  {{< keyword icon="code" >}} Postman {{< /keyword >}}
+  {{< keyword icon="gitlab" >}} GitLab {{< /keyword >}}
+{{< /keywordList >}}
+
 ---
 
 ## Featured Projects
