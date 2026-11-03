@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Salvador Diaz Roman</title>
+    <link>http://localhost:1313/s41va/s41va.github.io/tags/</link>
+    <description>Recent content in Tags on Salvador Diaz Roman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>salvadordiazcontact@gmail.com (Salvador Diaz Roman)</managingEditor>
+    <webMaster>salvadordiazcontact@gmail.com (Salvador Diaz Roman)</webMaster>
+    <copyright>© 2026 Salvador Diaz Roman</copyright>
+    <atom:link href="http://localhost:1313/s41va/s41va.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

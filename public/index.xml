@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salvador Diaz Roman</title>
+    <link>http://localhost:1313/s41va/s41va.github.io/</link>
+    <description>Recent content on Salvador Diaz Roman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>salvadordiazcontact@gmail.com (Salvador Diaz Roman)</managingEditor>
+    <webMaster>salvadordiazcontact@gmail.com (Salvador Diaz Roman)</webMaster>
+    <copyright>© 2026 Salvador Diaz Roman</copyright>
+    <lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/s41va/s41va.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/s41va/s41va.github.io/about/</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <author>salvadordiazcontact@gmail.com (Salvador Diaz Roman)</author>
+      <guid>http://localhost:1313/s41va/s41va.github.io/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/s41va/s41va.github.io/resume/</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <author>salvadordiazcontact@gmail.com (Salvador Diaz Roman)</author>
+      <guid>http://localhost:1313/s41va/s41va.github.io/resume/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
